@@ -1,0 +1,25 @@
+seluruh aplikasi mining yang saya tampilkan screenshot dan sample codenya adalah buatan saya sendiri sebagai
+fullstack developer mulai dari analisa sampai ke tahap implementasi
+
+kecuali untuk applikasi cuti, untuk aplikasi ini adalah buatan tim dimana saya membantu untuk analisa
+dari fitur dan fungsi utama dari aplikasi. dan jika terpilih/ lolos saya bersedia untuk membuat system ini 
+apabila dibutuhkan perusahaan.
+
+Catatan:
+semua system menggunakan codeigniter
+
+LIST DAFTAR APLIKASI YANG ADA DALAM DOKUMEN TEST INI ADALAH:
+1. APLIKASI FUEL
+2. APLIKASI CARPOOL
+3. APLIKASI FLEET
+4. APLIKASI HM
+5. APLIKASI CENTRAL MINING SYSTEM
+6. APLIKASI P2H
+
+APLIKASI BERBASIS MOBILE
+1. APLIKASI PERHITUNGAN RITASE
+
+
+SHOWCASE APLIKASI YANG DIKERJAKAN BERSAMA TIM SEBELUMNYA:
+1. APLIKASI CUTI (disini saya berperan sebagai analys aplikasi pada saat development)
+2. APLIKASI SIMPER ( disini saya berperan sebagai salah satu developer, namun terbatas pada beberapa module)
